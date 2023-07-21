@@ -10,5 +10,9 @@ kita dapat melakukan login sebagai seorang "ADMIN" yang dimana kita dapat menamb
 **Form ADMIN**
 
 Di dalam form ADMIN kita dapat melakukan beberapa aksi yaitu:
-Menambahkan "NIK" , "NAMA" , "Jenis Kelamin" dan "alamat" warga yang ingin melakukan vaksinasi untuk di data oleh admin. Lalu ada table yang berfungsi untuk menampilkan data-data yang tadi sudah di masukan oleh admin supaya dapat terlihat oleh user. Fungsi "SIMPAN" berguna untuk meyimpan data yang di input oleh admin dan data tersebut akan ditampilkan di dalam table yang sudah disediakan, Fungsi "RESET" berfungsi untuk mereset test field yang akan di isi oleh admin saat ingin menambahkan data, Fungsi "UPDATE" berfungsi untuk mengupdate data warga yang sudah divaksin, Fungsi "HAPUS" berfungsi untuk menghapus data yang di masukan oleh admin di dalam  halaman table.                 
+Menambahkan "NIK" , "NAMA" , "Jenis Kelamin" dan "alamat" warga yang ingin melakukan vaksinasi untuk di data oleh admin. Lalu ada table yang berfungsi untuk menampilkan data-data yang tadi sudah di masukan oleh admin supaya dapat terlihat oleh user. Fungsi "SIMPAN" berguna untuk meyimpan data yang di input oleh admin dan data tersebut akan ditampilkan di dalam table yang sudah disediakan, Fungsi "RESET" berfungsi untuk mereset test field yang akan di isi oleh admin saat ingin menambahkan data, Fungsi "UPDATE" berfungsi untuk mengupdate data warga yang sudah divaksin, Fungsi "HAPUS" berfungsi untuk menghapus data yang di masukan oleh admin di dalam  halaman table. 
+
+**Form USER**
+
+Di dalam form USER kita hanya bisa menggunakan beberapa fungsi yaitu seperti READ table yang sudah dibuat oleh ADMIN, lalu kita juga bisa melakukan tambah data pada table VAKSIN.
 
